@@ -23,7 +23,6 @@ const (
 	storagePath       = "storage"
 )
 
-// 7839784077:AAFjrpvJcbp1i8abuLdOFQqHgEW-TL-7L4s
 func main() {
 
 	eventsProcessor := telegram.New(
